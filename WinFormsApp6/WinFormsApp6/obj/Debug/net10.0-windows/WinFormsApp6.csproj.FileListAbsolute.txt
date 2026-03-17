@@ -1,0 +1,14 @@
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\bin\Debug\net10.0-windows\WinFormsApp6.exe
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\bin\Debug\net10.0-windows\WinFormsApp6.deps.json
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\bin\Debug\net10.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\bin\Debug\net10.0-windows\WinFormsApp6.dll
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\bin\Debug\net10.0-windows\WinFormsApp6.pdb
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\WinFormsApp6.dll
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\refint\WinFormsApp6.dll
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\WinFormsApp6.pdb
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\Администратор\RiderProjects\WinFormsApp6\WinFormsApp6\obj\Debug\net10.0-windows\ref\WinFormsApp6.dll
